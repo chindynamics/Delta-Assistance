@@ -22,4 +22,4 @@ Si estás interesado en mejorar este sistema, adaptarlo a nuevas necesidades o c
 
 ## LICENCIA
 
-Este proyecto se distribuye bajo la licencia MIT, lo que significa que puedes utilizar, modificar y redistribuir libremente el código y los recursos aquí compartidos, siempre y cuando se otorgue el debido crédito a los autores originales.
+Este proyecto se distribuye bajo la licencia [MIT License](https://github.com/chindynamics/Delta-Assistance/blob/main/LICENSE), lo que significa que puedes utilizar, modificar y redistribuir libremente el código y los recursos aquí compartidos, siempre y cuando se otorgue el debido crédito a los autores originales.
