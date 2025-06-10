@@ -1,4 +1,4 @@
-## INTRODUCCIÓN
+# INTRODUCCIÓN
 
 Los padecimientos neuromusculares como la esclerosis lateral amiotrófica (ELA) o las lesiones medulares generan una pérdida progresiva de la movilidad, relegando a los pacientes a una dependencia crítica de terceros para actividades cotidianas. Frente a este desafío, nuestro proyecto desarrolla una silla de ruedas eléctrica controlada mediante seguimiento ocular, una solución que empodera a los usuarios reconquistando su autonomía a través de la tecnología. A diferencia de sistemas comerciales que requieren componentes físicos (como joysticks o pulsadores), nuestro prototipo interpreta la intención de movimiento directamente desde la mirada, eliminando barreras para quienes han perdido el control muscular.
 
