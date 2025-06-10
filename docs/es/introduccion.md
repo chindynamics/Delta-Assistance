@@ -9,3 +9,4 @@ Las estadísticas subrayan la urgencia de estas soluciones, la incidencia global
 Este proyecto no solo demuestra la viabilidad técnica de sistemas accesibles, sino que también abre puertas a futuras mejoras.
 
 ![Arquitectura de Sistema](https://github.com/chindynamics/Delta-Assistance/blob/43641fafab4b2570722a5ae9a48f42b96d3819b5/docs/media/diagramafuncionamientoblanco.drawio.png)
+*Figura 1: Flujo de datos del sistema. La cámara captura el movimiento ocular, el algoritmo lo traduce en coordenadas, y Arduino envía señales a los motores, mientras los sensores ultrasónicos monitorizan el entorno.*
