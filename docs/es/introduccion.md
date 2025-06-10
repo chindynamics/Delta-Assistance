@@ -8,4 +8,4 @@ Las estadísticas subrayan la urgencia de estas soluciones, la incidencia global
 
 Este proyecto no solo demuestra la viabilidad técnica de sistemas accesibles, sino que también abre puertas a futuras mejoras.
 
-![image](:/media/diagramafuncionamiento.png)
+![image](/media/diagramafuncionamiento.png)
