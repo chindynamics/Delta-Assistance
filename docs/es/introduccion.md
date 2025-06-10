@@ -7,3 +7,5 @@ El sistema combina algoritmos de visión por computadora para el rastreo del iri
 Las estadísticas subrayan la urgencia de estas soluciones, la incidencia global de ELA alcanza 1.9 casos por cada 100,000 personas, con un crecimiento proyectado del 69% para 2040 debido al envejecimiento poblacional. Sin embargo, el acceso a tecnologías asistivas sigue siendo limitado. 
 
 Este proyecto no solo demuestra la viabilidad técnica de sistemas accesibles, sino que también abre puertas a futuras mejoras.
+
+![Arquitectura del Sistema](media/diagramafuncionamiento.png)
