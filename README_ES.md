@@ -6,6 +6,6 @@ Este repositorio contiene todo el código, documentación técnica y recursos ne
 ## CONTENIDO
 
 A continuación, se enlistan los apartados disponibles para conocer el proyecto con mayor detalle:
-- [Introducción](https://github.com/chindynamics/Delta-Assistance/edit/main/docs/es/1.- introduccion.md)
-- [Instalación](https://github.com/chindynamics/Delta-Assistance/edit/main/docs/es/2.- instalacion.md)
-- [Documentación](https://github.com/chindynamics/Delta-Assistance/edit/main/docs/es/3.- documentacion.md)
+- [Introducción](https://github.com/chindynamics/Delta-Assistance/blob/main/docs/es/1.-%20introduccion.md)
+- [Instalación](https://github.com/chindynamics/Delta-Assistance/blob/main/docs/es/2.-%20instalacion.md)
+- [Documentación](https://github.com/chindynamics/Delta-Assistance/blob/main/docs/es/3.-%documentacion.md)
