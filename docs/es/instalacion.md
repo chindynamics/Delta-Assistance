@@ -1,0 +1,11 @@
+# INSTALACIÓN
+
+Este apartado proporciona una guía paso a paso para instalar y configurar correctamente el sistema de control de la silla de ruedas eléctrica con seguimiento ocular. El objetivo es asegurar que cualquier usuario o desarrollador pueda poner en marcha el entorno de software y hardware sin complicaciones.
+
+## REQUISITOS PREVIOS
+
+Antes de comenzar con la instalación, asegurate de tener lo siguiente instalado:
+- Una computadora con un sistema operativo Linux o Windos (no probado en macOS) o un Raspberry Pi.
+- Un microcontrolador Arduino Mega, correctamente flasheado con el código proporcionado para Arduino.
+- Una cámara infrarroja, para este proyecto se usó una cámara GC0308.
+- Librerías de Python requeridas para el procesamiento de imágenes.
