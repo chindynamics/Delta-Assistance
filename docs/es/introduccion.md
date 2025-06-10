@@ -8,4 +8,4 @@ Las estadísticas subrayan la urgencia de estas soluciones, la incidencia global
 
 Este proyecto no solo demuestra la viabilidad técnica de sistemas accesibles, sino que también abre puertas a futuras mejoras.
 
-![Arquitectura de Sistema](https://github.com/chindynamics/Delta-Assistance/blob/3a78ca90c2238e01950720ec43df211f383b4be2/docs/media/diagramafuncionamiento.png)
+![Arquitectura de Sistema](https://github.com/chindynamics/Delta-Assistance/blob/43641fafab4b2570722a5ae9a48f42b96d3819b5/docs/media/diagramafuncionamientoblanco.drawio.png)
