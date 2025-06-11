@@ -11,7 +11,7 @@ Below are the sections available to explore the project in more detail:
 
 ## FEATURES
 
-The Delta Assistance system is designed to be accessible, modular, and adaptable. Its main innovation lies in the use of computer vision to interpret the user's gaze direction and convert it into commands to move a powered wheelchair. The eye-tracking interface was developed in Python based on Jason Orlosky's open-source code, while motion control was implemented on an Arduino Mega microcontroller using C++. This combination enables efficient communication between the user and the machine—even without physical contact.
+The Delta Assistance system is designed to be accessible, modular, and adaptable. Its main innovation lies in the use of computer vision to interpret the user's gaze direction and convert it into commands to move a powered wheelchair. The eye-tracking interface was developed in Python based on Jason Orlosky's open-source code, while motion control was implemented on an Arduino Mega microcontroller using C++. This combination enables efficient communication between the user and the machine, even without physical contact.
 
 In addition to the eye-tracking interface, a custom circuit board was designed to control the wheelchair motors, and a physical structure was adapted to integrate with a conventional wheelchair. The system is capable of recognizing five commands: move forward, move backward, turn left, turn right, and stop. Its design takes into account real-world environments, including varying lighting conditions and physical interference.
 
