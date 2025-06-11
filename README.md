@@ -5,9 +5,9 @@
 ## CONTENT
 
 Below are the sections available to explore the project in more detail:  
-- [Introduction](https://github.com/chindynamics/Delta-Assistance/blob/main/docs/es/1.-%20introduccion.md): context, motivation, and project objectives.  
-- [Installation](https://github.com/chindynamics/Delta-Assistance/blob/main/docs/es/2.-%20instalacion.md): step-by-step guide to clone the repository, install dependencies, and run the system.  
-- [Documentation](https://github.com/chindynamics/Delta-Assistance/blob/main/docs/es/3.-%20documentacion.md): full technical explanation of the design, integration, and validation process.
+- [Introduction](https://github.com/chindynamics/Delta-Assistance/blob/main/docs/en/1.-%20introduction.md): context, motivation, and project objectives.  
+- [Installation](https://github.com/chindynamics/Delta-Assistance/blob/main/docs/en/2.-%20installation.md): step-by-step guide to clone the repository, install dependencies, and run the system.  
+- [Documentation](https://github.com/chindynamics/Delta-Assistance/blob/main/docs/en/3.-%20documentation.md): full technical explanation of the design, integration, and validation process.
 
 ## FEATURES
 
