@@ -21,10 +21,10 @@ This project was developed by the Delta Assistance team:
 
 - [@chindynamics](https://github.com/chindynamics) – Lead on computer vision pipeline and human–computer interaction design.
 - [@Sarao2341](https://github.com/Sarao2341) – Responsible for 3D modeling and mechanical integration.
-- [@reginaruizz](https://github.com/reginaruizz) – PCB schematic and layout. Selected components for the power regulation stages, designed the custom board in KiCad, and verified signal integrity.
-- [@Ulin78](https://github.com/Ulin78) – Electronics integration and firmware support. Assisted with PCB bring-up, wrote and tested the Arduino Mega firmware modules.
+- [@reginaruizz](https://github.com/reginaruizz) – PCB schematic and layout. Selected components for the power regulation stages.
+- [@Ulin78](https://github.com/Ulin78) – Electronics integration and firmware support. Assisted with PCB bring-up.
 - [@haydeevazquez](https://github.com/haydeevazquez) – Sound processing and obstacle detection.
-- [@mirelyyc](https://github.com/mirelyyc) – UI and iconography designer. Created the visual assets for the desktop interface, designed status icons and ensured consistency across the user experience.
+- [@mirelyyc](https://github.com/mirelyyc) – UI and iconography designer. Created the visual assets for the desktop interface.
 
 
 If you're interested in improving this system, adapting it to new needs, or contributing your expertise in software, hardware, or accessible design, you're welcome to collaborate. You can do so by opening an issue to report problems or suggestions, or by submitting a pull request with specific improvements. This project may also serve as an educational or research base for further developments in biomedical engineering and assistive technologies.
