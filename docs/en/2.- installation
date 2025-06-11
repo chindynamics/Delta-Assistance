@@ -1,1 +1,36 @@
+# INSTALLATION
 
+This section provides a step-by-step guide to correctly install and configure the control system for the eye-tracking electric wheelchair. The goal is to ensure that any user or developer can set up the software and hardware environment without complications.
+
+## PREREQUISITES
+
+Before beginning the installation, make sure you have the following:
+- A computer running Linux or Windows (macOS not tested), or a Raspberry Pi.
+- An Arduino Mega microcontroller, properly flashed with the provided Arduino code.
+- An infrared camera; this project used a GC0308 camera.
+- Required Python libraries for image processing.
+
+## CLONE THE REPOSITORY
+
+Clone this repository to your local machine using the command:
+
+```bash
+git clone https://github.com/chindynamics/Delta-Assistance.git
+cd Delta-Assistance
+```
+
+## INSTALL DEPENDENCIES
+
+Once the repository is cloned, install the necessary dependencies. It is recommended to create a Python 3.11 virtual environment:
+
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+## FIRST RUN
+
+Run the main script HCI.py from the eye-tracking system to verify calibration and communication with the microcontroller.
+
+When you run this code, the system will begin the eye-tracking calibration. Observe the calibration points on the screen and press the spacebar to capture each point. Repeat the process until all calibration points are completed. Once calibrated, you can activate movement control from the provided interface using eye-tracking.
