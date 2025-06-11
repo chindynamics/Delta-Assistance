@@ -22,7 +22,7 @@ This project was developed by the Delta Assistance team:
 - [@chindynamics](https://github.com/chindynamics) – Lead on computer vision pipeline and human–computer interaction design.
 - [@Sarao2341](https://github.com/Sarao2341) – Responsible for 3D modeling and mechanical integration.
 - [@reginaruizz](https://github.com/reginaruizz) – PCB schematic and layout. Selected components for the power regulation stages, designed the custom board in KiCad, and verified signal integrity.
-- [@Ulin81](https://github.com/Ulin81) – Electronics integration and firmware support. Assisted with PCB bring-up, wrote and tested the Arduino Mega firmware modules.
+- [@Ulin78](https://github.com/Ulin78) – Electronics integration and firmware support. Assisted with PCB bring-up, wrote and tested the Arduino Mega firmware modules.
 - [@haydeevazquez](https://github.com/haydeevazquez) – Sound processing and obstacle detection.
 - [@mirelyyc](https://github.com/mirelyyc) – UI and iconography designer. Created the visual assets for the desktop interface, designed status icons and ensured consistency across the user experience.
 
