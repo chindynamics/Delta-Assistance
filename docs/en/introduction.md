@@ -4,7 +4,7 @@ Neuromuscular conditions such as amyotrophic lateral sclerosis (ALS) or spinal c
 
 The system combines computer vision algorithms for iris tracking with a semi-autonomous navigation module. Using a low-cost camera and real-time image processing techniques, the software translates eye coordinates into directional commands (forward, backward, turns) that are sent to an Arduino Mega controller. At the same time, ultrasonic sensors and an integrated accelerometer detect obstacles within a 1.5-meter radius, activating automatic brakes when collision risk exceeds predefined thresholds. This safety layer is essential for indoor environments with limited space.
 
-Statistics emphasize the urgency of such solutions—ALS has a global incidence of 1.9 cases per 100,000 people, with a projected 69% increase by 2040 due to population aging. Yet, access to assistive technologies remains limited.
+Statistics emphasize the urgency of such solutions, ALS has a global incidence of 1.9 cases per 100,000 people, with a projected 69% increase by 2040 due to population aging. Yet, access to assistive technologies remains limited.
 
 This project not only demonstrates the technical feasibility of accessible systems, but also opens the door to future improvements.
 
